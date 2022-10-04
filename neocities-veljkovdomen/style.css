@@ -1,0 +1,105 @@
+ /* Warning Sranje*/
+.callout {
+  position: fixed;
+  bottom: 35px;
+  right: 20px;
+  margin-left: 20px;
+  max-width: 300px;
+}
+
+.callout-header {
+  padding: 25px 15px;
+  background: #555;
+  font-size: 30px;
+  color: white;
+}
+
+.callout-container {
+  padding: 15px;
+  background-color: #ccc;
+  color: black
+}
+
+.closebtn {
+  position: absolute;
+  top: 5px;
+  right: 15px;
+  color: white;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.closebtn:hover {
+  color: lightgrey;
+} 
+
+/* Moje B) */
+     body {
+      font-family: "Times New Roman";        
+      background-image: url(https://veljkovdomen.neocities.org/youstunk.png);
+      color: white;
+     }
+     div.central {
+      background-image:url("https://veljkovdomen.neocities.org/jraphics/grat.gif");
+      color:black;
+      border-style: solid;
+      border-color: lightgray;
+      border-width: thin;
+      width: 512px;
+      height: 356px;     
+     }
+     .centralsub {
+      background-image:url("/jraphics/grat.gif");
+      color:black;
+      border-style: solid;
+      border-color: lightgray;
+      border-width: thin;
+      width: 200px;
+      height: 100px;     
+     }
+     a.central {
+       text-decoration:none;
+       border: 1px solid black;
+       background-image: linear-gradient(gray, black);
+       padding: 7px;
+       font-size: 20px;
+       font-weight: bold;
+     }
+     p.central {
+       font-family: "Times New Roman";            
+       text-decoration:none;
+       border: 2px solid black;
+       background-image: linear-gradient(rgba(15,95,104,255), rgba(114,174,176,255));
+       padding: 7px;
+       font-size: 20px;
+       color:white;
+       border-radius: 10px;       
+     }     
+     .centraltext {
+      background-color:transparent;
+      color:black;
+      border-style: none;
+      width: 256px;
+      height: 64px;   
+     }
+     .sus {
+       text-decoration:none;
+       color: white;
+      }
+    .chatbox {
+      width: 500px;
+      height: 500px;
+    }  
+    .centralforum {
+      width: 512px;
+      height: 1024px;
+    }
+     .funky {
+      background-color: darkgray;
+      color:black;
+      border-style: solid;
+      border-color: lightgray;
+      border-width: thin;
+      width: 512px;
+      height: 256px;     
+     }    
